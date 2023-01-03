@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Felipe+Silva+Muller;I'm+22+years+old;I'm+from+Brasil,+SP;I+study+Computer+Science+at+UNINOVE;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Felipe+Müller;I'm+22+years+old;I'm+from+Brasil,+São+Paulo+-+SP;I+study+Computer+Science+at+UNINOVE;Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FelipeSMuller&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Muller github stats" /> 
